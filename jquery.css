@@ -1,0 +1,16 @@
+body{
+    margin: 40px;
+    padding: 30px;
+    background-color: salmon;
+}
+h1{
+    color: rgba(253, 253, 5, 0.767);
+}
+button{
+    border-radius: 5px;
+    color: red;
+    background-color: mistyrose;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
